@@ -2,7 +2,7 @@
 
 Syncit Waitlist Web is the React frontend for the Syncit Waitlist Backend. This application allows users to submit their email addresses to join the waitlist for the Syncit application.
 
-🌐 Live at: www.syncit.org.in
+SyncIt waitlist is live! 🚀🎵 Join now: [https://syncit.org.in/](https://syncit.org.in/) 🔥
 
 
 ## Features
